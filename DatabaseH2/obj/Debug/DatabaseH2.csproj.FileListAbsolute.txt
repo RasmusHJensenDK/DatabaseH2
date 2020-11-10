@@ -1,0 +1,10 @@
+C:\Users\c98101rhj\OneDrive - Ejner Hessel A S\Desktop\Skole H2\Database\DatabaseH2\DatabaseH2\obj\Debug\DatabaseH2.csprojAssemblyReference.cache
+C:\Users\c98101rhj\OneDrive - Ejner Hessel A S\Desktop\Skole H2\Database\DatabaseH2\DatabaseH2\obj\Debug\DatabaseH2.Form1.resources
+C:\Users\c98101rhj\OneDrive - Ejner Hessel A S\Desktop\Skole H2\Database\DatabaseH2\DatabaseH2\obj\Debug\DatabaseH2.Properties.Resources.resources
+C:\Users\c98101rhj\OneDrive - Ejner Hessel A S\Desktop\Skole H2\Database\DatabaseH2\DatabaseH2\obj\Debug\DatabaseH2.csproj.GenerateResource.cache
+C:\Users\c98101rhj\OneDrive - Ejner Hessel A S\Desktop\Skole H2\Database\DatabaseH2\DatabaseH2\obj\Debug\DatabaseH2.csproj.CoreCompileInputs.cache
+C:\Users\c98101rhj\OneDrive - Ejner Hessel A S\Desktop\Skole H2\Database\DatabaseH2\DatabaseH2\bin\Debug\DatabaseH2.exe.config
+C:\Users\c98101rhj\OneDrive - Ejner Hessel A S\Desktop\Skole H2\Database\DatabaseH2\DatabaseH2\bin\Debug\DatabaseH2.exe
+C:\Users\c98101rhj\OneDrive - Ejner Hessel A S\Desktop\Skole H2\Database\DatabaseH2\DatabaseH2\bin\Debug\DatabaseH2.pdb
+C:\Users\c98101rhj\OneDrive - Ejner Hessel A S\Desktop\Skole H2\Database\DatabaseH2\DatabaseH2\obj\Debug\DatabaseH2.exe
+C:\Users\c98101rhj\OneDrive - Ejner Hessel A S\Desktop\Skole H2\Database\DatabaseH2\DatabaseH2\obj\Debug\DatabaseH2.pdb
